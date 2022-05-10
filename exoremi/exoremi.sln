@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exoremi", "exoremi\exoremi.vcxproj", "{E274B868-3A74-48A5-8CFE-E0DF4F3C0D40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E274B868-3A74-48A5-8CFE-E0DF4F3C0D40}.Debug|x64.ActiveCfg = Debug|x64
+		{E274B868-3A74-48A5-8CFE-E0DF4F3C0D40}.Debug|x64.Build.0 = Debug|x64
+		{E274B868-3A74-48A5-8CFE-E0DF4F3C0D40}.Debug|x86.ActiveCfg = Debug|Win32
+		{E274B868-3A74-48A5-8CFE-E0DF4F3C0D40}.Debug|x86.Build.0 = Debug|Win32
+		{E274B868-3A74-48A5-8CFE-E0DF4F3C0D40}.Release|x64.ActiveCfg = Release|x64
+		{E274B868-3A74-48A5-8CFE-E0DF4F3C0D40}.Release|x64.Build.0 = Release|x64
+		{E274B868-3A74-48A5-8CFE-E0DF4F3C0D40}.Release|x86.ActiveCfg = Release|Win32
+		{E274B868-3A74-48A5-8CFE-E0DF4F3C0D40}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {196B959A-A729-4D46-8DA7-3A6B41BCE9CB}
+	EndGlobalSection
+EndGlobal
